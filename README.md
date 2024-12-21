@@ -35,10 +35,6 @@
 
 ## 💡 为什么选择我们？
 
-### 合作联系
-- wx: yourxiaozhu
-- <img src="https://github.com/gzamon/autoshu/blob/main/yourxiaozhu.jpg" width="200">
-
 ### 1️⃣ 智能化运营
 - 全自动化的浏览和互动
 - 智能的评论控制系统
@@ -57,6 +53,10 @@
   ![自动薯](https://github.com/gzamon/autoshu/blob/main/1.fw.png)
   ![自动薯](https://github.com/gzamon/autoshu/blob/main/2.fw.png)
   ![自动薯](https://github.com/gzamon/autoshu/blob/main/3.fw.png)
+
+### 合作联系
+- wx: yourxiaozhu
+- <img src="https://github.com/gzamon/autoshu/blob/main/yourxiaozhu.jpg" width="200">
 
 ### 4️⃣ 数据透明
 - 完整的历史记录
