@@ -1,4 +1,5 @@
 # 🤖 自动薯 - 小红书自动运营助手
+![自动薯](https://github.com/gzamon/autoshu/blob/main/icon128.png)
 
 让小红书运营变得简单而高效！
 
@@ -34,6 +35,10 @@
 
 ## 💡 为什么选择我们？
 
+### 合作联系
+- wx: yourxiaozhu
+- <img src="https://github.com/gzamon/autoshu/blob/main/yourxiaozhu.jpg" width="200">
+
 ### 1️⃣ 智能化运营
 - 全自动化的浏览和互动
 - 智能的评论控制系统
@@ -48,6 +53,10 @@
 - 清晰直观的界面
 - 一键开启/停止
 - 实时状态显示
+- 效果：
+  ![自动薯](https://github.com/gzamon/autoshu/blob/main/1.fw.png)
+  ![自动薯](https://github.com/gzamon/autoshu/blob/main/2.fw.png)
+  ![自动薯](https://github.com/gzamon/autoshu/blob/main/3.fw.png)
 
 ### 4️⃣ 数据透明
 - 完整的历史记录
