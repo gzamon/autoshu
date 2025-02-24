@@ -1,7 +1,9 @@
 # 🤖 自动薯 - 小红书自动运营助手
-![自动薯](https://github.com/gzamon/autoshu/blob/main/icon128.png)
+![自动薯](https://github.com/gzamon/autoshu/blob/main/GjRblWAakAEee3x.jpeg)  
 
-让小红书运营变得简单而高效！
+[自动薯官网](https://shinewaycargo.com/xhs-auto) -- 让小红书运营变得简单而高效！  
+[chrome插件](https://chromewebstore.google.com/detail/%E8%87%AA%E5%8A%A8%E8%96%AF-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%87%AA%E5%8A%A8%E8%BF%90%E8%90%A5%E5%8A%A9%E6%89%8B/piejlhcmefdepbgalcongckfomfobokb)  
+[edge插件](https://microsoftedge.microsoft.com/addons/detail/%E8%87%AA%E5%8A%A8%E8%96%AF-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%87%AA%E5%8A%A8%E8%BF%90%E8%90%A5%E5%8A%A9%E6%89%8B/oagcafkckfleldijhhkjiemanmammnnh)  
 
 ## ✨ 主要功能
 
@@ -16,10 +18,11 @@
 - 避免重复评论
 - 支持关键词过滤
 
-### ❤️ 智能点赞
+### ❤️ 智能点赞收藏
 - 可选择性开启
 - 自定义点赞数量
 - 智能控制频率
+- 智能权重收藏
 
 ### 📊 数据管理
 - 自动记录互动历史
