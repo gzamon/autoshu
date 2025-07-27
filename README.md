@@ -3,7 +3,7 @@
 
 [自动薯官网](https://shinewaycargo.com/xhs-auto) -- 让小红书运营变得简单而高效！  
 [chrome插件](https://chromewebstore.google.com/detail/%E8%87%AA%E5%8A%A8%E8%96%AF-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%87%AA%E5%8A%A8%E8%BF%90%E8%90%A5%E5%8A%A9%E6%89%8B/piejlhcmefdepbgalcongckfomfobokb)  
-[edge插件](https://microsoftedge.microsoft.com/addons/detail/%E8%87%AA%E5%8A%A8%E8%96%AF-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%87%AA%E5%8A%A8%E8%BF%90%E8%90%A5%E5%8A%A9%E6%89%8B/oagcafkckfleldijhhkjiemanmammnnh)  
+[edge插件-官网下载插件](https://shinewaycargo.com/xhs-auto/)  
 
 ## ✨ 主要功能
 
